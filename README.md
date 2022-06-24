@@ -15,9 +15,6 @@ pip install pgzero
 ## Known bugs
 - Choosing a depth larger than 3 will result in very long computing times for the engine (choosing 3 is still long, ~1-2 minutes)
 
-## Suppport
-Please contact the developer at mlou1@ocdsb.ca for support or feature requests.
-
 ## Sources
 |Source      |Description  |
 |------------|-------------|
